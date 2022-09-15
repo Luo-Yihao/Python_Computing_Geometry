@@ -1,2 +1,8 @@
 # Python_Computing_Geometry
- A python package for computing geomtry and topology
+ A python package for computing geometry and topology
+ 
+ The initial version includes 3 main blocks:
+ 1. manifold.py:  Data structure for 2D and 3D geometric process, containing manifold, simplexes, and chain complex...
+ 2. topolgyProcess.py: operators to obtain topological information, including searching fundamental groups, homology, and cohomology bases...
+ 3. conformalProcess.py: operators about conformal translating, including calculating the harmonic forms and Hodge decomposition...
+ 
